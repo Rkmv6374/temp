@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require ('mongoose');
 const body_parser = require('body-parser')
 const app = express();
+const rm = 5
 //get method
 //post
 //put
